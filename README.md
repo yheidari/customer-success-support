@@ -1,4 +1,4 @@
-# Yashar Heidari â€” Customer Success & Support Specialist Portfolio
+# Yashar Heidari — Customer Success & Support Specialist Portfolio
 
 Health scoring, onboarding, and proactive retention.
 
@@ -13,7 +13,7 @@ Customer Success & Support Specialist with 5 years of experience in B2B SaaS onb
 
 ## Contact
 
-- Location: Messina, Italy آ· Open to Remote
+- Location: Messina, Italy · Open to Remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
 - GitHub: https://github.com/yheidari/customer-success-support
